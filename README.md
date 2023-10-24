@@ -1,4 +1,7 @@
+
 # PowerPoint Presentation Generator
+
+https://github.com/shivasish05/Text_To_PPT_Generator/assets/98316576/2e7e0a38-1a18-439d-98a0-0a373ead830c
 
 Welcome to the PowerPoint Presentation Generator, a Python application that utilizes OpenAI's GPT-3 to create visually appealing PowerPoint presentations. This tool automates the process of generating presentation slides on a given topic, making it easy to create engaging presentations in a matter of minutes.
 
