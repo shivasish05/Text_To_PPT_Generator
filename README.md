@@ -1,7 +1,3 @@
-# Text_To_PPT_Generator
-Certainly, here's a template for a README file that you can use on GitHub to document and share your PowerPoint presentation generator code:
-
-```markdown
 # PowerPoint Presentation Generator
 
 Welcome to the PowerPoint Presentation Generator, a Python application that utilizes OpenAI's GPT-3 to create visually appealing PowerPoint presentations. This tool automates the process of generating presentation slides on a given topic, making it easy to create engaging presentations in a matter of minutes.
@@ -31,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/powerpoint-presentation-generator.git
+   git clone https://github.com/shivasish05/powerpoint-presentation-generator.git
    ```
 
 2. Change into the project directory:
@@ -86,4 +82,4 @@ Feel free to explore and adjust the code to create presentations that match your
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Replace `yourusername/powerpoint-presentation-generator` with the appropriate GitHub repository name you intend to use. This README template provides an overview of your project, installation instructions, and basic usage guidance. You can expand it as needed to provide more detailed information about your project and its features.
+Replace `shivasish05/powerpoint-presentation-generator` with the appropriate GitHub repository name you intend to use. This README template provides an overview of your project, installation instructions, and basic usage guidance. You can expand it as needed to provide more detailed information about your project and its features.
